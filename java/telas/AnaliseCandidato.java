@@ -96,7 +96,7 @@ public class AnaliseCandidato extends javax.swing.JFrame {
 
         aceitarCandidatura.setBackground(new java.awt.Color(75, 0, 130));
         aceitarCandidatura.setForeground(new java.awt.Color(255, 255, 255));
-        aceitarCandidatura.setText("Aceitar Candidatura");
+        aceitarCandidatura.setText("Marcar Entrevista");
 
         jButton2.setText("Recusar Candidatura");
 
@@ -132,7 +132,7 @@ public class AnaliseCandidato extends javax.swing.JFrame {
                                 .addComponent(jButton2)
                                 .addGap(18, 18, 18)
                                 .addComponent(aceitarCandidatura)))
-                        .addGap(0, 403, Short.MAX_VALUE)))
+                        .addGap(0, 417, Short.MAX_VALUE)))
                 .addContainerGap())
         );
         layout.setVerticalGroup(
